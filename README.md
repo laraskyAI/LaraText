@@ -169,6 +169,10 @@ $\color[gray]{0.3} hello$
 ```
 $\color[gray]{0.3} hello$
 
+## References
+
+https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#supported-color-models
+
 
 ### 📊 GitHub Stats
 
