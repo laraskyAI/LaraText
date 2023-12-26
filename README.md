@@ -53,9 +53,9 @@
 
 ## More than one color
 
-`$${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$`
+`$${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Larasky}$$`
 
-$${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
+$${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Larasky}$$
 
 ## Cases
 
